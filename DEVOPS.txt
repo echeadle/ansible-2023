@@ -1,0 +1,9 @@
+Git Repository: ansible-2023
+
+Learning Ansible:
+Books:
+    1. Ansible for Real Life Automation
+    2. Devops for the Desperate
+
+
+Starting with Ansible for Real Life Automation, create an ansible directory.
